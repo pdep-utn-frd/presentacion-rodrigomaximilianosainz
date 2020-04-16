@@ -5,4 +5,4 @@
  _Me gustan los animales, tengo 3 perros, Oso, Teo y Milo._
  _Mi legajo es 9845_
  
- !(C:\Users\ACER\Desktop\fototp0\claseparadigmas.jpg)
+ ![claseparadigmas](https://user-images.githubusercontent.com/38964269/79509491-fca9b080-8011-11ea-9076-bc874752c7ac.jpg)
